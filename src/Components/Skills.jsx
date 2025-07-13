@@ -81,6 +81,7 @@ const Skills = () => {
             <div className="skills-tags">
               <span className="skill-tag">HTMl</span>
               <span className="skill-tag">CSS</span>
+              <span className="skill-tag">Java Script</span>
               <span className="skill-tag">React</span>
               <span className="skill-tag">Node.js</span>
               <span className="skill-tag">ExpressJS</span>
