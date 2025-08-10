@@ -70,6 +70,12 @@ const Skills = () => {
               <span className="skill-tag">Queue</span>
               <span className="skill-tag">Stack</span>
               <span className="skill-tag">linked list</span>
+              
+              <span className="skill-tag">Bubble Sort</span>
+              <span className="skill-tag">Insertion Sort</span>
+              <span className="skill-tag">Selection Sort</span>
+              <span className="skill-tag">Merge Sort</span>
+              <span className="skill-tag">Quick Sort</span>
             </div>
           </div>
 
