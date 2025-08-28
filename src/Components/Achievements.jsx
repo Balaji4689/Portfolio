@@ -54,12 +54,9 @@ const Achievements = () => {
             <div className="achievement-icon">
               <EmojiEventsIcon style={{ fontSize: '2rem' }} />
             </div>
-            <a href="https://leetcode.com/u/balaji_89/">
              <h3>Leet Code</h3>
             <p>Solved problems</p>
             <span className="achievement-date"> 80 problems</span>
-            </a>
-            </a>
           </div>
 
           <div className="achievement-card">
