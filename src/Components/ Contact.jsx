@@ -43,20 +43,24 @@ const Contact = () => {
               </p>
               <div className="contact-methods">
                 <div className="contact-method">
-                  <EmailIcon />
-                  <span>bmaddula@gitam.in</span>
                 </div>
                 <div className="contact-method">
-                  <LinkedInIcon />
-                  <span>https://www.linkedin.com/in/m-balaji-reddy/</span>
+                <a href="https://www.linkedin.com/in/m-balaji-reddy/" target="_blank" rel="noopener noreferrer">
+              <LinkedInIcon />
+              <span>LinkedIn</span>
+            </a>
                 </div>
                 <div className="contact-method">
-                  <GitHubIcon />
-                  <span>https://github.com/Balaji4689?tab=repositories</span>
+                <a href="https://github.com/Balaji4689" target="_blank" rel="noopener noreferrer">
+              <GitHubIcon />
+              <span>GitHub</span>
+            </a>
                 </div>
                 <div className="contact-method">
-                  <CodeIcon />
-                  <span>https://leetcode.com/u/balaji_89/</span>
+                <a href="https://leetcode.com/u/balaji_89/" target="_blank" rel="noopener noreferrer">
+              <CodeIcon />
+              <span>LeetCode</span>
+            </a>
                 </div>
               </div>
             </div>
