@@ -65,12 +65,17 @@ const Skills = () => {
               Algorithms &amp; DS
             </h3>
             <div className="skills-tags">
-              <span className="skill-tag">Sliding Window &amp; Two Pointers</span>
-              <span className="skill-tag">Binary Search</span>
+              <span className="skill-tag">Arrays</span>
+              <span className="skill-tag">Strings</span>
               <span className="skill-tag">Queue</span>
               <span className="skill-tag">Stack</span>
               <span className="skill-tag">linked list</span>
+              <span className="skill-tag">Sorting</span>
               
+              <span className="skill-tag">Binary Search</span>
+              <span className="skill-tag">Sliding Window</span>
+              <span className="skill-tag">Fast & Slow Pointer</span>
+              <span className="skill-tag">Hash Map</span>
               <span className="skill-tag">Bubble Sort</span>
               <span className="skill-tag">Insertion Sort</span>
               <span className="skill-tag">Selection Sort</span>
