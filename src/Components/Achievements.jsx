@@ -54,9 +54,9 @@ const Achievements = () => {
             <div className="achievement-icon">
               <EmojiEventsIcon style={{ fontSize: '2rem' }} />
             </div>
-             <h3>Leet Code</h3>
+            <h3>Leet Code</h3>
             <p>Solved problems</p>
-            <span className="achievement-date"> 80 problems</span>
+            <span className="achievement-date">97 problems</span>
           </div>
 
           <div className="achievement-card">
