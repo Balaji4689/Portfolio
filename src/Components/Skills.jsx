@@ -90,14 +90,21 @@ const Skills = () => {
               Technologies &amp; Tools
             </h3>
             <div className="skills-tags">
-              <span className="skill-tag">HTMl</span>
-              <span className="skill-tag">CSS</span>
-              <span className="skill-tag">Java Script</span>
+              <span className="skill-tag">HTMl5</span>
+              <span className="skill-tag">CSS3</span>
+              <span className="skill-tag">JavaScript (ES6+)</span>
               <span className="skill-tag">React</span>
               <span className="skill-tag">Node.js</span>
               <span className="skill-tag">ExpressJS</span>
               <span className="skill-tag">MongoDB</span>
+               <span className="skill-tag">RESTful APIs Development</span>
               <span className="skill-tag">SQL</span>
+              <span className="skill-tag">Python</span>
+              <span className="skill-tag">Agile/Scrum</span>
+               <span className="skill-tag">Postman</span>
+               <span className="skill-tag">OOP</span>
+               <span className="skill-tag">Operating Systems</span>
+              <span className="skill-tag">Computer Networks</span>
             </div>
           </div>
         </div>
