@@ -56,7 +56,7 @@ const Achievements = () => {
             </div>
             <h3>Leet Code</h3>
             <p>Solved problems</p>
-            <span className="achievement-date">97 problems</span>
+            <span className="achievement-date">131 problems</span>
           </div>
 
           <div className="achievement-card">
